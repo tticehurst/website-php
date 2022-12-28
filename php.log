@@ -1,0 +1,190 @@
+[Sat Oct 15 17:14:51 2022] PHP 8.0.9 Development Server (http://0.0.0.0:5555) started
+[Mon Nov 14 20:41:18 2022] 192.168.0.191:50944 Accepted
+[Mon Nov 14 20:41:18 2022] 192.168.0.191:50944 [200]: (null) /
+[Mon Nov 14 20:41:18 2022] 192.168.0.191:50944 Closing
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50948 Accepted
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50948 [302]: GET /pages/index.php
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50948 Closing
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50950 Accepted
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50950 [200]: GET /pages/account.php
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50950 Closing
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50952 Accepted
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50954 Accepted
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50952 [200]: GET /css/styles.css
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50956 Accepted
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50954 [200]: GET /elements/header/headerLink.js
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50956 [200]: GET /elements/footer/footer.js
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50952 Closing
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50954 Closing
+[Mon Nov 14 20:41:23 2022] 192.168.0.191:50956 Closing
+[Mon Nov 28 15:33:32 2022] 192.168.0.36:65457 Accepted
+[Mon Nov 28 15:33:32 2022] 192.168.0.36:65457 [200]: GET /
+[Mon Nov 28 15:33:32 2022] 192.168.0.36:65457 Closing
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65458 Accepted
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65458 [302]: GET /pages/index.php
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65458 Closing
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65459 Accepted
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65459 [200]: GET /pages/account.php
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65459 Closing
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65461 Accepted
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65461 [200]: GET /css/styles.css
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65461 Closing
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65462 Accepted
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65462 [200]: GET /elements/header/headerLink.js
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65462 Closing
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65463 Accepted
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65463 [200]: GET /elements/footer/footer.js
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65463 Closing
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65473 Accepted
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65473 [200]: GET /images/favicon.png
+[Mon Nov 28 15:33:33 2022] 192.168.0.36:65473 Closing
+[Mon Nov 28 15:34:06 2022] 192.168.0.36:65475 Accepted
+[Mon Nov 28 15:34:06 2022] 192.168.0.36:65475 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:34:06 2022] 192.168.0.36:65475 Closing
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65476 Accepted
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65476 [200]: GET /
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65476 Closing
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65477 Accepted
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65477 [302]: GET /pages/index.php
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65477 Closing
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65478 Accepted
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65478 [200]: GET /pages/account.php
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65478 Closing
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65479 Accepted
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65480 Accepted
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65481 Accepted
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65479 [200]: GET /css/styles.css
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65479 Closing
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65480 [200]: GET /elements/header/headerLink.js
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65481 [200]: GET /elements/footer/footer.js
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65480 Closing
+[Mon Nov 28 15:34:07 2022] 192.168.0.36:65481 Closing
+[Mon Nov 28 15:34:08 2022] 192.168.0.36:65489 Accepted
+[Mon Nov 28 15:34:08 2022] 192.168.0.36:65489 [200]: GET /images/favicon.png
+[Mon Nov 28 15:34:08 2022] 192.168.0.36:65489 Closing
+[Mon Nov 28 15:35:52 2022] 192.168.0.36:65511 Accepted
+[Mon Nov 28 15:35:52 2022] 192.168.0.36:65511 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:35:52 2022] 192.168.0.36:65511 Closing
+[Mon Nov 28 15:35:55 2022] 192.168.0.36:65512 Accepted
+[Mon Nov 28 15:35:55 2022] 192.168.0.36:65512 [200]: GET /pages/account.php
+[Mon Nov 28 15:35:55 2022] 192.168.0.36:65512 Closing
+[Mon Nov 28 15:35:56 2022] 192.168.0.36:65513 Accepted
+[Mon Nov 28 15:35:56 2022] 192.168.0.36:65514 Accepted
+[Mon Nov 28 15:35:56 2022] 192.168.0.36:65515 Accepted
+[Mon Nov 28 15:35:56 2022] 192.168.0.36:65513 [200]: GET /css/styles.css
+[Mon Nov 28 15:35:56 2022] 192.168.0.36:65514 [200]: GET /elements/header/headerLink.js
+[Mon Nov 28 15:35:56 2022] 192.168.0.36:65515 [200]: GET /elements/footer/footer.js
+[Mon Nov 28 15:35:56 2022] 192.168.0.36:65513 Closing
+[Mon Nov 28 15:35:56 2022] 192.168.0.36:65514 Closing
+[Mon Nov 28 15:35:56 2022] 192.168.0.36:65515 Closing
+[Mon Nov 28 15:35:57 2022] 192.168.0.36:65520 Accepted
+[Mon Nov 28 15:35:57 2022] 192.168.0.36:65520 [200]: GET /images/favicon.png
+[Mon Nov 28 15:35:57 2022] 192.168.0.36:65520 Closing
+[Mon Nov 28 15:36:32 2022] 192.168.0.36:65525 Accepted
+[Mon Nov 28 15:36:32 2022] 192.168.0.36:65525 [200]: GET /pages/account.php
+[Mon Nov 28 15:36:32 2022] 192.168.0.36:65525 Closing
+[Mon Nov 28 15:36:32 2022] 192.168.0.36:65526 Accepted
+[Mon Nov 28 15:36:32 2022] 192.168.0.36:65526 [200]: GET /css/styles.css
+[Mon Nov 28 15:36:32 2022] 192.168.0.36:65526 Closing
+[Mon Nov 28 15:36:32 2022] 192.168.0.36:65527 Accepted
+[Mon Nov 28 15:36:33 2022] 192.168.0.36:65528 Accepted
+[Mon Nov 28 15:36:33 2022] 192.168.0.36:65527 [200]: GET /elements/header/headerLink.js
+[Mon Nov 28 15:36:33 2022] 192.168.0.36:65528 [200]: GET /elements/footer/footer.js
+[Mon Nov 28 15:36:33 2022] 192.168.0.36:65527 Closing
+[Mon Nov 28 15:36:33 2022] 192.168.0.36:65528 Closing
+[Mon Nov 28 15:36:43 2022] 192.168.0.36:65529 Accepted
+[Mon Nov 28 15:36:43 2022] 192.168.0.36:65529 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:36:43 2022] 192.168.0.36:65529 Closing
+[Mon Nov 28 15:36:44 2022] 192.168.0.36:65530 Accepted
+[Mon Nov 28 15:36:44 2022] 192.168.0.36:65530 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:36:44 2022] 192.168.0.36:65530 Closing
+[Mon Nov 28 15:36:45 2022] 192.168.0.36:65531 Accepted
+[Mon Nov 28 15:36:45 2022] 192.168.0.36:65531 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:36:45 2022] 192.168.0.36:65531 Closing
+[Mon Nov 28 15:36:45 2022] 192.168.0.36:65532 Accepted
+[Mon Nov 28 15:36:45 2022] 192.168.0.36:65532 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:36:45 2022] 192.168.0.36:65532 Closing
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:65533 Accepted
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:65533 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:65533 Closing
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:65534 Accepted
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:65534 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:65534 Closing
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:49154 Accepted
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:49154 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:49154 Closing
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:49160 Accepted
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:49160 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:36:46 2022] 192.168.0.36:49160 Closing
+[Mon Nov 28 15:36:47 2022] 192.168.0.36:49161 Accepted
+[Mon Nov 28 15:36:47 2022] 192.168.0.36:49161 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:36:47 2022] 192.168.0.36:49161 Closing
+[Mon Nov 28 15:36:54 2022] 192.168.0.36:49168 Accepted
+[Mon Nov 28 15:36:54 2022] 192.168.0.36:49168 Invalid request (Unsupported SSL request)
+[Mon Nov 28 15:36:54 2022] 192.168.0.36:49168 Closing
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49169 Accepted
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49169 [200]: GET /
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49169 Closing
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49170 Accepted
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49170 [302]: GET /pages/index.php
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49170 Closing
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49171 Accepted
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49171 [200]: GET /pages/account.php
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49171 Closing
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49172 Accepted
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49172 [200]: GET /css/styles.css
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49173 Accepted
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49172 Closing
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49174 Accepted
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49173 [200]: GET /elements/header/headerLink.js
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49174 [200]: GET /elements/footer/footer.js
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49173 Closing
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49174 Closing
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49182 Accepted
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49182 [200]: GET /images/favicon.png
+[Mon Nov 28 15:36:56 2022] 192.168.0.36:49182 Closing
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49184 Accepted
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49184 [302]: POST /pages/actions/sign_in.php
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49184 Closing
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49185 Accepted
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49185 [200]: GET /pages/account.php
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49185 Closing
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49186 Accepted
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49187 Accepted
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49186 [200]: GET /css/styles.css
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49188 Accepted
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49186 Closing
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49187 [200]: GET /elements/header/headerLink.js
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49188 [200]: GET /elements/footer/footer.js
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49187 Closing
+[Mon Nov 28 15:36:59 2022] 192.168.0.36:49188 Closing
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49189 Accepted
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49189 [302]: POST /pages/actions/sign_in.php
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49189 Closing
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49190 Accepted
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49190 [200]: GET /pages/account.php
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49190 Closing
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49191 Accepted
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49191 [200]: GET /css/styles.css
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49192 Accepted
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49193 Accepted
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49192 [200]: GET /elements/header/headerLink.js
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49191 Closing
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49193 [200]: GET /elements/footer/footer.js
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49192 Closing
+[Mon Nov 28 15:37:02 2022] 192.168.0.36:49193 Closing
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49194 Accepted
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49194 [302]: POST /pages/actions/sign_in.php
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49194 Closing
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49195 Accepted
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49195 [200]: GET /pages/account.php
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49195 Closing
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49196 Accepted
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49196 [200]: GET /css/styles.css
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49197 Accepted
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49196 Closing
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49197 [200]: GET /elements/header/headerLink.js
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49197 Closing
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49198 Accepted
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49198 [200]: GET /elements/footer/footer.js
+[Mon Nov 28 15:37:04 2022] 192.168.0.36:49198 Closing

@@ -1,0 +1,235 @@
+@import url("https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Basic&display=swap");
+
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
+
+:root {
+  --main-font: "Basic", sans-serif;
+  --secondary-font: "Trebuchet MS", "sans-serif";
+  --header-font: "Josefin Sans", "cursive";
+}
+
+body * {
+  font-family: var(--main-font);
+}
+
+body * .secondary-font {
+  font-family: var(--secondary-font);
+}
+
+body * .header-font {
+  font-family: var(--header-font);
+}
+
+body .flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+body .flex-column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+body>div#container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+body>div#container>div#content {
+  flex-grow: 1;
+}
+
+body>div#container footer {
+  flex-basis: 100px;
+}
+
+body .italic {
+  font-style: italic;
+}
+
+body .normal {
+  font-style: normal;
+}
+
+body .flex-justify-centre {
+  justify-content: center;
+}
+
+body .flex-align-centre {
+  align-items: center;
+}
+
+body .flex-no-wrap {
+  flex-wrap: nowrap;
+}
+
+body .flex-wrap {
+  flex-wrap: wrap;
+}
+
+body flex-break {
+  flex-basis: 100%;
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+}
+
+body button a {
+  text-decoration: none;
+  color: black;
+}
+
+body h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--header-font);
+}
+
+body table {
+  border-spacing: 5rem 0.9rem;
+}
+
+body header {
+  margin-bottom: 50px;
+}
+
+body header header-link:not(:last-child)::after {
+  content: "|";
+}
+
+button {
+  font-size: 0.9em;
+  padding: 2px 2px;
+}
+
+body .input-small {
+  width: 100px;
+}
+
+body .margin-bottom-small {
+  margin-bottom: 15px;
+}
+
+body .margin-bottom-micro {
+  margin-bottom: 5px;
+}
+
+p.small,
+span.small {
+  font-size: 0.7em;
+}
+
+.gap-small {
+  gap: 10px;
+}
+
+.gap-small_medium {
+  gap: 15px;
+}
+
+.gap-medium {
+  gap: 20px;
+}
+
+.gap-large {
+  gap: 35px;
+}
+
+.gap-huge {
+  gap: 70px;
+}
+
+div#blog-post-content * {
+  font-family: var(--secondary-font);
+}
+
+div#blog-post-content h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--header-font) !important;
+  text-align: center;
+}
+
+div.centre-margin {
+  margin-right: 30%;
+  margin-left: 30%;
+}
+
+div.blog-post fieldset {
+  font-family: var(--secondary-font);
+}
+
+code {
+  font-family: monospace !important;
+  background-color: rgb(225, 225, 225);
+}
+
+div#christmas div#christmas-lights {
+  position: absolute;
+
+  width: 100%;
+  height: 100%;
+
+  margin: 0;
+  padding: 0;
+
+  background-repeat: repeat-x;
+  background-image: url("https://64.media.tumblr.com/fb7bda3f975fe890e9923ab4bb982c4c/ec4425b3c04fa957-cd/s1280x1920/9a63c2f994104d215ce0fd5bd8ba4814a30f38fc.gifv");
+  background-size: 20%;
+
+  z-index: -1;
+
+  left: 0;
+  right: 0;
+}
+
+ul#jobs-table-info {
+  padding-left: 19px;
+}
+
+div#job-content {
+  text-align: center;
+}
+
+div#job-content ul {
+  display: inline-block;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+div#job-content ul>li {
+  list-style: square;
+}
+
+div#job-content form label {
+  margin-right: 10px;
+}
+
+div#job-todo h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--header-font) !important;
+  text-align: center;
+}
+
+div#job-todo>div {
+  width: 100%;
+}
+
+div#accountItem {
+  justify-content: space-evenly;
+}
